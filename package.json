@@ -1,0 +1,11 @@
+{
+  "name": "aura-iteration",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "@salesforce/eslint-plugin-aura": "^1.0.0",
+    "eslint": "^4.19.1",
+    "stylelint": "^8.0.0",
+    "stylelint-config-standard": "^17.0.0"
+  }
+}

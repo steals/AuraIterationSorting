@@ -1,0 +1,5 @@
+<aura:component>
+    <aura:attribute name="item" type="Object" />
+
+    {!v.item.attr2}
+</aura:component>
